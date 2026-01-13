@@ -1,10 +1,10 @@
 ---
-title: "Data Analysis Chinnok: Data-Base Chinook.db "
-excerpt: "Numerical solutions for relativistic boson stars in interacting and non-interacting regimes.<br/><img src='/images/chinook_p.png'>"
+title: "Sales Analysis in a Relational Database  "
+excerpt: "Data Analysis in a Relational Database (SQLite – Chinook.db).<br/><img src='/images/chinook_p.png'>"
 collection: portfolio
 ---
 
-**Chinook Data Analysis Project**
+**Sales Analysis in a Relational Database (SQLite – Chinook)**
 
 This project presents an exploratory and analytical study of the Chinook sample database, a relational database that represents a digital music store. The main objective is to demonstrate a complete data analysis workflow, from structured SQL queries to higher-level insights obtained through Python-based analysis.
 
@@ -12,8 +12,7 @@ Using SQLite as the backend, the project focuses on extracting, transforming, an
 
 The full analysis, including queries, visualizations, and interpretations, is documented in a Jupyter Notebook available via NBViewer:
 
-👉 [Notebook:](https://nbviewer.org/github/edgargovea/sqlite-chinook-project/blob/main/notebooks/SQL_Querys.ipynb)
+[Notebook](https://nbviewer.org/github/edgargovea/sqlite-chinook-project/blob/main/notebooks/SQL_Querys.ipynb)
+| [Repository](https://github.com/edgargovea/sqlite-chinook-project)
 
 This project is intended as a concise demonstration of applied data analysis skills, integrating SQL, Python, and exploratory data analysis in a reproducible and transparent manner.
-
-<br/><img src='/images/Rel_Boson.png'>
