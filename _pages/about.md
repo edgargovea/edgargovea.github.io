@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Data Analyst with a PhD in Physics and strong quantitative background, specialized in data analysis, statistical modeling, and computational problem-solving. Experienced in using Python Programming Language, SQL, and data visualization tools to extract insights from complex datasets and support data-driven decision-making. 
 
-[**Publications**](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
+Phd in Physics from the University of Guanajuato, interested in topics of gravitation and cosmology.
+
+Research experience on compact scalar- and vector-field objects (combining analytical and numerical methods) and the study of their stability, as well as the study of quantum scalar and fermionic fields in curved spacetimes and the gravitational production of particles. With experience as a university-level instructor.
+
+[**Publications**](https://edgargovea.github.io//publications/)
 ======
 
 1. **‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’**
@@ -24,7 +27,7 @@ Data Analyst with a PhD in Physics and strong quantitative background, specializ
 (to be submited).
 
 
-[Teaching](https://edgargovea.github.io/edgarpgovea.github.io/teaching/)
+[Teaching](https://edgargovea.github.io//teaching/)
 ======
 * **Classical Mechanics**  
 _Undergraduate course_, Universidad de Guanajuato, 2024  
@@ -34,7 +37,7 @@ Taught Classical Mechanics at the undergraduate level. Developed instructional m
 _Undergraduate course_, Universidad de Guanajuato, 2025  
 Taught laboratory course in Wave Mechanics, Fluid Mechanics, and Heat. Conducted statistical data analysis using Python and supervised the preparation of technical laboratory reports.
 
-[**Portfolio**](https://edgargovea.github.io/edgarpgovea.github.io/portfolio/)
+[**Portfolio**](https://edgargovea.github.io//portfolio/)
 ======
 
 1. **Data Analysis Chinnok: Data-Base Chinook**:
@@ -45,15 +48,13 @@ Taught laboratory course in Wave Mechanics, Fluid Mechanics, and Heat. Conducted
 Work Experience
 ======
 
-**Research Asistant** – Universidad de Guanajuato
-
-Revisión y desarrollo de código para el análisis numérico mediante lenguaje de programación Python. Desarrollo, revisión y optimización de código para análisis numérico en Python. Participación en proyectos de investigación en cosmología, materia oscura y sistemas gravitacionales. Colaboración en la redacción de artículos científicos y discusión de resultados.
+* **Research Asistant** – Universidad de Guanajuato  
+Review and development of code for numerical analysis using the Python programming language. Development, review, and optimization of code for numerical analysis in Python. Participation in research projects in cosmology, dark matter, and gravitational systems. Collaboration in writing scientific articles and discussing results.
 
 
 Education
 ======
 
-2021-2025		      **Phd in Physics**, Universidad de Guanajuato
-
+* 2021-2025  **Phd in Physics**, Universidad de Guanajuato  
 Título de tesis: 		‘Fermionic and Bosonic Dark Matter Models’ : A combination of analytical, numerical, and computational methods for solving astrophysical compact objects and analyzing the gravitational particle production of scalar and fermionic dark matter.
 
