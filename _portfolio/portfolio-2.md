@@ -1,6 +1,6 @@
 ---
 title: "Relativistic Boson Stars: Numerical Solutions  "
-excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars)."
+excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).<br/><img src='/images/Rel_Boson.png'>"
 collection: portfolio
 ---
 
@@ -16,4 +16,6 @@ Although the cold dark matter model (CDM) within the standard cosmological model
 If dark matter is composed of boson particles in a Bose-Einstein condensate (as in boson stars), these problems might be mitigated. Boson and Proca star phenomenology could address the cusp and missing satellite problems.
 
 [Notebook](https:///nbviewer.org/github/edgargovea/Relativistic-Boson-Stars/blob/main/Notebooks/mini_boson_star_and_Massive_Boson_star.ipynb) | [Respository](https://github.com/edgargovea/Relativistic-Boson-Stars/tree/main)
+
+
 ---
