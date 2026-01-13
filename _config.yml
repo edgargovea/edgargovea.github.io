@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Edgar Preciado-Govea"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Physics & Research Assistant & Data Analyst"
-  location         : "Léon, Guanajuato: México"
+  bio              : "PhD in Physics & Research Assistant"
+  location         : "Léon, Guanajuato, México"
   employer         : "Universidad de Guanajuato"
   uri              : # URL
   email            : "edgarpgovea@hotmail.com" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : edgar-preciado-g
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
