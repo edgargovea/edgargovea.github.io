@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Chinnok: Data-Base Chinook.db "
-excerpt: "Numerical solutions for relativistic boson stars in interacting and non-interacting regimes.<br/><img src='/images/Rel_Boson.png'>"
+excerpt: "Numerical solutions for relativistic boson stars in interacting and non-interacting regimes.<br/><img src='/images/chinook_p.png'>"
 collection: portfolio
 ---
 
