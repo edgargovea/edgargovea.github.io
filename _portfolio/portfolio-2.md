@@ -1,6 +1,6 @@
 ---
 title: "Relativistic Boson Stars: Numerical Solutions  "
-excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).<br/><img src='/images/Rel_Boson.png'>"
+excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).<br/><img src='/images/Rel_Boson.png' width='400'>"
 collection: portfolio
 ---
 
