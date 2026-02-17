@@ -1,6 +1,6 @@
 ---
 title: "Sales Analysis in a Relational Database  "
-excerpt: "Data Analysis in a Relational Database (SQLite – Chinook.db).<br/><img src='/images/chinook_p.png' width='300'>"
+excerpt: "Data Analysis in a Relational Database (SQLite – Chinook.db).<br/><img src='/images/chinook_p.png' width='400'>"
 collection: portfolio
 ---
 
